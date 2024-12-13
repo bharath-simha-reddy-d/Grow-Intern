@@ -1,6 +1,6 @@
 # Grow-Intern
 
-#Weather App
+--Weather App--
 
 Weather App Overview
 Purpose:
@@ -17,7 +17,7 @@ User Input:
 
 Search functionality for weather details by city or postal code.
 
-#Telegram bot
+--Telegram bot--
 A Telegram bot is an automated program that can interact with users on Telegram. Bots can perform various tasks such as sending messages, handling commands, and integrating with external APIs or services.
 
 Key Components of the Telegram Bot:
